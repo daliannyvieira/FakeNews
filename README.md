@@ -1,6 +1,6 @@
-# desafio02
+# FakeNews
 
-> A Vue.js project
+>  A simple comment box using VueJS to explain some things on @VaiNaWeb
 
 ## Build Setup
 
